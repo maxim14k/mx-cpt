@@ -4,7 +4,7 @@ Demonstration of creating Custom Post Types, Taxonomies and meta-fields. Shortco
 Task:
 
 1. Create WordPress theme.
-2. Create Custom Post Type "Car".
+2. Create Custom Post Type "Car".  
    2.1. Implement the ability to add meta fields, for example, Brand.
 3. Create taxonomy "Body" and link it to the CPT "Car".
 4. Templates.  
