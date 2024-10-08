@@ -1,7 +1,7 @@
 # mx-cpt
-Demonstration of creating Custom Post Types, Taxonomies and meta-fields. Shortcodes for data output.
+Demonstration of creating **Custom Post Types**, **Taxonomies** and **meta-fields**. **Shortcodes** for data output.
 
-Task:
+## Task:
 
 1. Create WordPress theme.
 2. Create Custom Post Type **Car**.  
